@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=
+ModuleBreakpoints3=
+ModuleClosedNodes0=1,2
+ModuleClosedNodes1=
+ModuleClosedNodes2=
+ModuleClosedNodes3=
+NavigationStack=Main,Activity_Create,26,0,Main,btnIrLogin_Click,42,0,WebService,Service_Create,14,1,WebService,Service_Start,17,0,WebService,Application_Error,33,0,WebService,ValidateUser,139,0,WebService,webSocket_HandleRequest,123,6,Main,Activity_Resume,31,0,Diseñador Visual,mainLayout.bal,-100,1,Main,Button1_Click,37,0
+SelectedBuild=0
+VisibleModules=3,2
